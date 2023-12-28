@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  YassirExercise
+
+  Created by Iván Herrera on 12/27/23.
+  
+*/
+
+//Mark: Movies
+"trending-movies" = "Trending Movies";
+"couldnt-download-movies" = "Couldn't download movies\nPress OK to try again";
+
+//Mark: Movie Detail
+"couldnt-download-movie-detail" = "Couldn't download movie detail";
+
+//Mark: Misc
+"loading" = "Loading...";
+"error" = "Error";
+"ok" = "OK";
+
