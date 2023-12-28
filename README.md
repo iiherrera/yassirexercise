@@ -1,10 +1,11 @@
 <h1>Notes</h1>
 
 - API key must be entered in Constants.swift
-- UI and usability can be improved and features (like infinite scroll, paging, searching, filtering, etc) added. But I wanted to make it clean and simple.
+- UI and usability can be improved and features (like infinite scroll, paging, searching, filtering, etc) added. But I wanted to make it clean and simple
 - I used the MVVM design pattern with SwiftUI
-- Target is iOS 15, as right now it is usually what we support from (Latest minus 2)
+- Target is iOS 15, as right now it is usually the minimum developers support (latest minus 2)
 - I wrote Unit Tests for MoviesViewModel and MovieDetailViewModel
+- User facing strings are internationalized and stored in Localizable.strings
 
 
 This exercise uses the TMDb API but is not endorsed or certified by TMDb.
